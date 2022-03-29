@@ -33,7 +33,7 @@ public class IterationWithForEachLoop {
 
 
         //iterating string with For-Each loop
-        String[] str = {"AR","Nhi"};
+        String[] str = {"AR", "Lawliet"};
 
         for (String s: str) {
             System.out.println(s);
